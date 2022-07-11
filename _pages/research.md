@@ -15,3 +15,8 @@ Multiple small projects for learning to use the algorithms and the requirements 
 Mostly using python with keras and tensorflow.
 
 
+### Machine Learning GoPro Algorithm Classification
+
+Working on it..
+
+
